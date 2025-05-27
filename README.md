@@ -11,8 +11,11 @@ A RESTful API for employee management built with ASP.NET Core and Entity Framewo
 
 Quick Start
 1-Clone repo
+
 2-Set connection string in appsettings.json
+
 3-Run dotnet ef database update
+
 4-Start with dotnet run
 
 Endpoints
