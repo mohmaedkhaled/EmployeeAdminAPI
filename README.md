@@ -19,15 +19,24 @@ Quick Start
 4-Start with dotnet run
 
 Endpoints
+
 -GET /api/employees - List all
+
 -POST /api/employees - Add new
+
 -PUT /api/employees/{id} - Update
+
 -DELETE /api/employees/{id} - Remove
 
+
 🛠️ Technologies
+
 -ASP.NET Core
+
 -Entity Framework Core
+
 -SQL Server
+
 -Swagger/OpenAPI (in development mode)
 
 License
